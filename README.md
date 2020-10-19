@@ -18,8 +18,9 @@
 <br>
 
 
-Hi, I'm [Sarthak Srivastava(https://github.com/Sarthak1306), an Undergrad Student from India, currently studying at the University of Petroleum & Energy Studies, Dehradun.  
+Hi, I'm [Sarthak Srivastava(https://github.com/Sarthak1306), an Undergrad Student from India, currently studying at the [University of Petroleum & Energy Studies, Dehradun](https://www.upes.ac.in).<br>
 I enjoy exploring new domains and technologies.
+Apart from this, I enjoy working on the Adobe Suite ( Photoshop, Illustrator, After Effects, Lightroom , Premier Pro) 
 
 
 **Some Information About Me:**
