@@ -29,7 +29,7 @@ Apart from this, I enjoy working on the Adobe Suite ( Photoshop, Illustrator, Af
 - 🔭 I'm trying to explore the domain of Web Development
 - 🌱 I'm currently learning Javascript and Python
 - 👯 Open to all tech related conversations and random ones too!
-- 🤔 Would love Collaborate/Seek Guidance on various projects
+- 🤔 Would love to Collaborate/Seek Guidance on various projects
 - 📫 Contact Me : [Sarthak Srivastava](https://www.linkedin.com/in/sarthaksrivastava1306/)
 
 
