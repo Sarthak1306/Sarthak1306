@@ -1,51 +1,51 @@
+# Hi there, I'm Sarthak -  <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
 
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
+## I'm a Computer Science and Engineering Student specialising in DevOps 
 
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://discord.gg/jWK7Vnk">
-  <img align="left" alt="=Sarthak's Discord Server" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
-</a>
-<a href="https://twitter.com/Sarthak13062001">
-  <img align="left" alt="Sarthak Srivastava | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/sarthaksrivastava1306//">
-  <img align="left" alt="Sarthak's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/sarthakxs/">
-  <img align="left" alt="Sarthak's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+- 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
+- 📚 I’m currently learning everything about Frontend and Backend technologies. 
+- 💪🏼 I'm open to Collaborate/Seek Guidance on any projects.  
+- 🖥 Design Head at [UPES ACM-W Student Chapter](http://www.upesacmwomen.org/)
+- ⚡ Fun fact: I love watching anime!
+
+---
+### Languages and Tools 🛠 
+
+![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
+![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
+![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
+![Eclipse-IDE](http://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=ffffff)
 <br />
-<br>
+
+---
 
 
-Hi, I'm [Sarthak Srivastava](https://github.com/Sarthak1306), an Undergrad Student from India, currently studying at the [University of Petroleum & Energy Studies, Dehradun](https://www.upes.ac.in).<br>
-Design Head at [UPES ACM-W Student Chapter](http://www.upesacmwomen.org) <br>
-I enjoy exploring new domains and technologies.
-Apart from this, I enjoy working on the Adobe Suite ( Photoshop, Illustrator, After Effects, Lightroom , Premier Pro) 
+---
+
+### Contact Information 📝
+
+[<img align="left" alt="sarthak" | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][https://www.linkedin.com/in/sarthaksrivastava1306//]
+[<img align="left" alt="sarthak" | Instagram" height="30px" src="https://image.flaticon.com/icons/svg/725/725278.svg" />][https://www.instagram.com/sarthakxs/]
 
 
-**Some Information About Me:**
+<br />
 
-- 🔭 I'm trying to explore the domain of Web Development
-- 🌱 I'm currently learning Javascript and Python
-- 👯 Open to all tech related conversations and random ones too!
-- 🤔 Would love to Collaborate/Seek Guidance on various projects
-- 📫 Contact Me : [Sarthak Srivastava](https://www.linkedin.com/in/sarthaksrivastava1306/)
+---
 
+<h2 align="center"> Github Statistics 📈 </h2>
+ 
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Sarthak1306&show_icons=true&theme=dracula" alt="Sarthak" />
+ 
+<p align="right"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthak1306&layout=compact" alt="Sarthak" />
 
-**Tools & Languages**
+---
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://www.flaticon.com/svg/static/icons/svg/143/143655.svg"></code>
-<code><img height="20" src="https://www.flaticon.com/svg/static/icons/svg/732/732190.svg"></code>
-
-<details>
-<summary>📈 My GitHub Stats</summary>
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Sarthak1306&show_icons=true&theme=gotham" alt="Sarthak" />
-
-</details>
