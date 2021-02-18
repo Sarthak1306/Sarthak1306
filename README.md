@@ -10,6 +10,7 @@
 - 🖥 Design Head at [UPES ACM-W Student Chapter](http://www.upesacmwomen.org/)
 - ⚡ Fun fact: I love watching anime!
 
+
 ---
 ### Languages and Tools 🛠 
 
@@ -29,6 +30,7 @@
 </p>
 
 </br>
+
 
 ---
 
