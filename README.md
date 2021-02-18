@@ -44,10 +44,10 @@
   
   <div align="center"> 
      <a href="">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sarthak1306&show_icons=true&theme=dracula" alt="Sarthak"/>
+      <img align="left" src="https://github-readme-stats.vercel.app/api?username=Sarthak1306&show_icons=true&theme=dracula" alt="Sarthak"/>
     </a>
     <a href="">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthak1306&layout=compact" alt="Sarthak"/>
+      <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthak1306&layout=compact" alt="Sarthak"/>
     </a>
 </div
 
