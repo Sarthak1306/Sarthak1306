@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## I'm a Computer Science and Engineering Student specialising in DevOps 
+## I'm pursuing Computer Science & Engineering specialising in DevOps from the [University of Petroleum & Energy Studies](https://www.upes.ac.in/)
 
 - 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
 - 📚 I’m currently learning everything about Frontend and Backend technologies. 
