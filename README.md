@@ -29,23 +29,5 @@
 ---
 
 
----
 
-### Contact Information 📝
-
-[<img align="left" alt="sarthak" | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][https://www.linkedin.com/in/sarthaksrivastava1306//]
-[<img align="left" alt="sarthak" | Instagram" height="30px" src="https://image.flaticon.com/icons/svg/725/725278.svg" />][https://www.instagram.com/sarthakxs/]
-
-
-<br />
-
----
-
-<h2 align="center"> Github Statistics 📈 </h2>
- 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Sarthak1306&show_icons=true&theme=dracula" alt="Sarthak" />
- 
-<p align="right"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthak1306&layout=compact" alt="Sarthak" />
-
----
 
