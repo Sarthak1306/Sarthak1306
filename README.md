@@ -44,7 +44,7 @@
   
   <div align="center"> 
      <a href="">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sarthak1306&show_icons=true&theme=dracula" alt="Sarthak"/>
+      <img align="center" alt="Sarthak's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Sarthak1306&show_icons=true&hide_border=true" />
     </a>
     <a href="">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthak1306&layout=compact" alt="Sarthak"/>
