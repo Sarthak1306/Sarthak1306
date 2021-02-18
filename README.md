@@ -28,6 +28,19 @@
 
 ---
 
+<br/>
 
+  <h2 align="center"> Github Statistics 📈 </h2>
+  
+  <div align="center"> 
+     <a href="">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sarthak1306&show_icons=true&theme=dracula" alt="Sarthak"/>
+    </a>
+    <a href="">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthak1306&layout=compact" alt="Sarthak"/>
+    </a>
+</div
+
+<br/>
 
 
