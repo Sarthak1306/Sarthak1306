@@ -4,10 +4,10 @@
 
 ## I'm pursuing Computer Science & Engineering specialising in DevOps from the [University of Petroleum & Energy Studies](https://www.upes.ac.in/)
 
-- 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
-- 📚 I’m currently learning everything about Frontend and Backend technologies. 
-- 💪🏼 I'm open to Collaborate/Seek Guidance on any projects.  
-- 🖥 Design Head at [UPES ACM-W Student Chapter](http://www.upesacmwomen.org/)
+- 👨‍💻 I’m currently learning iOS Development
+- 📚 I’m seeking guidance related to iOS and DSA 
+- 💪🏼 I'm open to Collaborate on any projects.  
+- 🖥 Design Head (2020-21) at [UPES ACM-W Student Chapter](http://www.upesacmwomen.org/)
 - ⚡ Fun fact: I love watching anime!
 
 
