@@ -39,21 +39,7 @@
 
 ---
 
-<br/>
 
-  <h2 align="center"> Github Statistics 📈 </h2>
-  
-  <div align="center"> 
-     <a href="">
-      <img align="center" alt="Sarthak's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Sarthak1306&show_icons=true&hide_border=true" />
-    </a>
-    <a href="">
-      <img align="center" src="(https://github-readme-stats.vercel.app/api?username=Sarthak1306)](https://github.com/anuraghazra/github-readme-stats)
-" alt="Sarthak"/>
-    </a>
-</div
-
-<br/>
 
 
 
