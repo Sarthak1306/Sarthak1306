@@ -1,4 +1,4 @@
-![MasterHead](https://t3.ftcdn.net/jpg/06/03/60/40/360_F_603604052_ymJlfUg5aemPj2iEqHqeMgUwBwrW5gQN.jpg)
+![MasterHead](https://static.myfigurecollection.net/upload/pictures/2018/01/09/1898432.jpeg)
 
 <h1 align="center">Hi 👋, I'm Sarthak</h1>
 <h3 align="center">A tech enthusiast</h3>
