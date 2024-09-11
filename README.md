@@ -1,4 +1,4 @@
-![MasterHead](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/421744c5-139a-44a6-aaea-560db4b7b68a/debnpgr-35858bea-f5aa-4504-96f9-01b179e694b3.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzQyMTc0NGM1LTEzOWEtNDRhNi1hYWVhLTU2MGRiNGI3YjY4YVwvZGVibnBnci0zNTg1OGJlYS1mNWFhLTQ1MDQtOTZmOS0wMWIxNzllNjk0YjMuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.gtspxqSVU7iFItSopUBY_Qivv8-29vKbSmkLRLzFt4Q)
+![MasterHead](https://thumb.ac-illust.com/36/3682dc1490e5299250d94534fb6d132a_t.jpeg)
 
 <h1 align="center">Hi 👋, I'm Sarthak</h1>
 <h3 align="center">A tech enthusiast</h3>
