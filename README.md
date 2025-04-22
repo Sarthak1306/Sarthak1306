@@ -5,13 +5,9 @@
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/29/12/98/29129842108c46684a26c427741db074.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthak1306&label=Profile%20views&color=0e75b6&style=flat" alt="sarthak1306" /> </p>
+- 🔭 Currently working as a **Web Developer @ STPI**
 
-<p align="left"> <a href="https://twitter.com/sarthak13062001" target="blank"><img src="https://img.shields.io/twitter/follow/sarthak13062001?logo=twitter&style=for-the-badge" alt="sarthak13062001" /></a> </p>
-
-- 🔭 I’m currently working on **AI/ML Related Projects**
-
-- 🌱 I’m currently learning **Langchain**
+- 🌱 I’m currently learning **CyberSecurity**
 
 - 📫 How to reach me **sarthaksrivastavaofficial@gmail.com**
 
@@ -19,7 +15,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sarthak13062001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sarthak13062001" height="30" width="40" /></a>
 <a href="https://instagram.com/sarthaksrivastavaa_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sarthaksrivastavaa_" height="30" width="40" /></a>
 </p>
 
@@ -28,3 +23,5 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarthak1306&" alt="sarthak1306" /></p>
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4279929" style='border:none;'></iframe>
+
