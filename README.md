@@ -23,5 +23,6 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarthak1306&" alt="sarthak1306" /></p>
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4279929" style='border:none;'></iframe>
+<img src="https://tryhackme-badges.s3.amazonaws.com/sarthaksrivastava.png" alt="Your Image Badge" />
+
 
